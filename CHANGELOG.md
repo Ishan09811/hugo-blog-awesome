@@ -1,4 +1,4 @@
-# Changelog
+ # Changelog
 
 ## [1.13.0](https://github.com/hugo-sid/hugo-blog-awesome/compare/v1.12.0...v1.13.0) (2023-12-22)
 
